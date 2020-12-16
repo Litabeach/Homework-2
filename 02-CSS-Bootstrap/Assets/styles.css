@@ -1,0 +1,24 @@
+h1 {
+    color: #343a40;
+  }
+
+body, .card {
+    background-color:lightgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+
+.col-lg-6 {
+  margin-top:20px
+}
+
+.img-fluid {
+  size: "350px x 350px"
+}
+
+@media screen and (max-width:992px) {
+  .headshot { 
+    margin-bottom:25px
+}
+
+}
+
