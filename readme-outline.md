@@ -25,6 +25,7 @@ Scroll and click links to navigate the pages.
 ## Credits
 
 https://getbootstrap.com/
+https://www.w3schools.com/howto/howto_css_fixed_footer.asp
 
 Copyright 2020 Lita Beach
 
