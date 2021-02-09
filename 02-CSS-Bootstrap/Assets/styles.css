@@ -18,8 +18,12 @@ body, .card {
   margin-top:20px
 }
 
-img {
+.headshot {
   border-radius: 50%;
+}
+
+img {
+  border-radius: 10%;
 }
 
 .img-fluid {
