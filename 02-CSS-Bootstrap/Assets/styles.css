@@ -20,10 +20,10 @@ body, .card {
   }
 
 /* .text {
-  color:white;
-  /* background-color:lightgrey;
-  /* opacity: 0.8; */
-  border-radius: 10%; */
+  font-size: large;
+  text-align: center;
+  background-color: #343a40; 
+  opacity: 0.3;
 } */
 
 .col-lg-6 {
