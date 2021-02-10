@@ -17,9 +17,9 @@ Published at: https://litabeach.github.io/Mobile-Responsive-Portfolio/
 
 Scroll and click links to navigate the pages. 
 
-![Home page](02-CSS-Bootstrap\Assets\Images2\screencapture1.png)
-![Contact Form](02-CSS-Bootstrap\Assets\Images2\screencapture2.png)
-![Potfolio](02-CSS-Bootstrap\Assets\Images2\screencapture3.png)
+![Home page](02-CSS-Bootstrap/Assets/Images2/screencapture1.png)
+![Contact Form](02-CSS-Bootstrap/Assets/Images2/screencapture2.png)
+![Portfolio](02-CSS-Bootstrap/Assets/Images2/screencapture3.png)
 
 
 ## Credits
