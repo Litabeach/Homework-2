@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description 
-A portfolio site that is mobile responsive. The website containts an 'about me' section, a contact form, and an image gallery. 
+A portfolio site that is mobile responsive. The website containts an 'about me' section, a contact form, and a portfolio with links to past projects. 
 
 Published at: https://litabeach.github.io/Mobile-Responsive-Portfolio/
 
