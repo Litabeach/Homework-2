@@ -30,6 +30,10 @@ body, .card {
   margin-top:20px
 }
 
+#aboutMe{
+  position: relative;
+}
+
 .headshot {
   border-radius: 50%;
 }
