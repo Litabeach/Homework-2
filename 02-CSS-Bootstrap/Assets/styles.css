@@ -1,18 +1,30 @@
 h1 {
-    color: #343a40;
+    /* color: #343a40; */
+    color: white;
   }
 
 h2 {
   font-size:small;
-  color: #343a40;
+  color: white;
+  /* color: #343a40; */
   text-align: center;
 }
 
 body, .card {
-    background-color:lightgrey;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #343a40;
+    /* color: #343a40; */
+    color: whitesmoke;
+    background-image: url('Images2/portfolio-background.jpg');
+    
+    
   }
+
+/* .text {
+  color:white;
+  /* background-color:lightgrey;
+  /* opacity: 0.8; */
+  border-radius: 10%; */
+} */
 
 .col-lg-6 {
   margin-top:20px
