@@ -10,9 +10,6 @@ h2 {
   text-align: center;
 }
 
-.contact-text{
-  color: white;
-}
 
 .fixed-footer {
   position: fixed;
@@ -36,13 +33,6 @@ h2 {
   border-radius: 10%;
   margin-bottom: 10%;
 }
-
- .relative-footer{
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-} 
 
 .screenshot {
   width: 500px;
