@@ -10,14 +10,6 @@ h2 {
   text-align: center;
 }
 
-
-.fixed-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
 .headshot {
   margin-top: 5%;
   border-radius: 50%;
@@ -73,5 +65,11 @@ h2 {
 @media screen and (max-width:992px) {
   .headshot { 
     margin-bottom:25px
+  }
+}
+
+@media(hover: hover) and (pointer: fine) {
+  nav a:hover {
+      background: yellow;
   }
 }
