@@ -10,6 +10,10 @@ h2 {
   text-align: center;
 }
 
+.contact-text{
+  color: white;
+}
+
 .fixed-footer {
   position: fixed;
   left: 0;
