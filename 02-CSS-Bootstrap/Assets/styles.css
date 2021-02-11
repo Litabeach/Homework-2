@@ -1,50 +1,19 @@
-h1 {
-    /* color: #343a40; */
-    color: white;
-  }
+body, .card {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: whitesmoke;
+  background-image: url('Images2/portfolio-background.jpg');
+}
 
 h2 {
   font-size:small;
   color: white;
-  /* color: #343a40; */
   text-align: center;
 }
 
-body, .card {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* color: #343a40; */
-    color: whitesmoke;
-    background-image: url('Images2/portfolio-background.jpg');
-    
-    
-  }
-
-/* .text {
-  font-size: large;
-  text-align: center;
-  background-color: #343a40; 
-  opacity: 0.3;
-} */
-
-.col-lg-6 {
-  margin-top:20px
-}
-
-#aboutMe{
-  position: relative;
-}
-
-.headshot {
-  border-radius: 50%;
-}
-
-img {
-  border-radius: 10%;
-  margin-bottom: 10%;
-}
-
-.img-fluid {
-  size: "350px x 350px"
+.text{
+  margin-top: 5%;
+  background-color: #343a40;
+  opacity: .8;
 }
 
 .fixed-footer {
@@ -53,9 +22,19 @@ img {
   bottom: 0;
   width: 100%;
 }
-@media screen and (max-width:992px) {
-  .headshot { 
-    margin-bottom:25px
+
+.headshot {
+  margin-top: 5%;
+  border-radius: 50%;
+}
+
+img {
+  border-radius: 10%;
+  margin-bottom: 10%;
+}
+
+.icon {
+width: 50px;
 }
 
  .relative-footer{
@@ -65,3 +44,20 @@ img {
   width: 100%;
 } 
 
+.screenshot {
+  width: 500px;
+}
+
+#aboutMe{
+  position: relative;
+}
+
+#media-links {
+  border-top: 3px solid rgb(22, 22, 22); ;
+}
+
+@media screen and (max-width:992px) {
+  .headshot { 
+    margin-bottom:25px
+  }
+}
