@@ -50,12 +50,13 @@ h2 {
   }
 }
 
-.hoverimg img:last-child {
+/* on hover show screenshot for portfolio */
+.hover-img img:last-child {
   display: none;  
 }
-.hoverimg:hover img:last-child {
+.hover-img:hover img:last-child {
   display: block;  
 }
-.hoverimg:hover img:first-child {
+.hover-img:hover img:first-child {
   display: none;  
 }
