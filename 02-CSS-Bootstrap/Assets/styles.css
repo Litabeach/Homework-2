@@ -10,12 +10,6 @@ h2 {
   text-align: center;
 }
 
-.text{
-  margin-top: 5%;
-  background-color: #343a40;
-  opacity: .8;
-}
-
 .fixed-footer {
   position: fixed;
   left: 0;
@@ -28,13 +22,15 @@ h2 {
   border-radius: 50%;
 }
 
-img {
-  border-radius: 10%;
-  margin-bottom: 10%;
+.icon {
+  height: 40px;
+  margin-bottom: 5px;
+  border-radius: 20%;
 }
 
-.icon {
-width: 50px;
+.image-fluid {
+  border-radius: 10%;
+  margin-bottom: 10%;
 }
 
  .relative-footer{
@@ -48,12 +44,29 @@ width: 50px;
   width: 500px;
 }
 
+.text{
+  margin-top: 5%;
+  background-color: #343a40;
+  opacity: .8;
+}
+
 #aboutMe{
   position: relative;
 }
 
 #media-links {
   border-top: 3px solid rgb(22, 22, 22); ;
+}
+
+
+#travel {
+  width: 350px;
+  height: 350px;
+}
+
+#travel:hover {
+  background-image: url('02-CSS-Bootstrap/Assets/Images2/traveltoday.png');
+  width: 300px; 
 }
 
 @media screen and (max-width:992px) {

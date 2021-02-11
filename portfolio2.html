@@ -11,6 +11,10 @@
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- Local CSS link -->
     <link rel="stylesheet" href="02-CSS-Bootstrap/Assets/styles.css">
+    <link type="text/css" rel="stylesheet" href="css/lightslider.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- <script src="js/lightslider.js"></script> -->
+
 
 </head>
 
@@ -41,54 +45,36 @@
     </nav>
     <br>
 
-    <section class="container mainBody">
-        <div class="row">
-            <div class="col-sm-12">
-                <h1 class="bodyHead">Portfolio</h1>
-                <hr class="my-4">
-            </div>
-        </div>
-        <!-- Portfolio Images-->
-        <div class="row">
-            <div class="col-md-2 col-sm-1"></div>
-            <div class="col-md-8 col-sm-10">
 
-                    <figure class="col-sm-12"><img class="img img-thumbnail img-fluid" src="Assets/Images2/traveltoday"
-                            alt="Travel Today App">
-                        <h4><b>Recharge Car App</b></h4>
-                        <p>Visit the Recharge <a class="link" href="https://github.com/AHFotis/RechargeCarApp"
-                                target="_blank">repository.</a> | Visit the Recharge <a class="link"
-                                href="https://ahfotis.github.io/RechargeCarApp/" target="_blank">live page.</a>
-                        </p>
-                    </figure>
 
-                    <figure class="col-sm-12"><img class="img img-thumbnail img-fluid" src="Images/codeQuiz.png"
-                            alt="Recharge Car App">
-                        <h4><b>Code Quiz For The Code Wiz</b></h4>
-                        <p>Visit the Code Quiz <a class="link"
-                                href="https://github.com/AHFotis/CodeQuizForTheCodeWiz"
-                                target="_blank">repository.</a> | Visit the Code Quiz <a class="link"
-                                href="https://ahfotis.github.io/CodeQuizForTheCodeWiz/" target="_blank">live
-                                page.</a>
-                        </p>
-                    </figure>
-
-                    <figure class="col-sm-12"><img class="img img-thumbnail img-fluid"
-                            src="Images/citySearch.png" alt="Recharge Car App">
-                        <h4><b>City Search: A Weather Dashboard</b></h4>
-                        <p>Visit the City Search <a class="link"
-                                href="https://github.com/AHFotis/CitySearchWeatherDashboard"
-                                target="_blank">repository.</a> | Visit the City Search <a class="link"
-                                href="https://ahfotis.github.io/CitySearchWeatherDashboard/"
-                                target="_blank">live page.</a>
-                        </p>
-                    </figure>
-
-                </div>
-                <div class="col-md-2 col-sm-1"></div>
-            </div>
-    </section>
-
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightSlider").lightSlider({
+            item: 3,
+            autoWidth: false,
+            slideMove: 1, // slidemove will be 1 if loop is true
+            slideMargin: 10,
+     
+            addClass: '',
+            mode: "slide",
+            useCSS: true,
+            cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+            easing: 'linear', //'for jquery animation',////
+     
+            speed: 400, //ms'
+            auto: false,
+            loop: false,
+            slideEndAnimation: true,
+            pause: 2000,
+     
+            keyPress: false,
+            controls: true,
+            prevHtml: '',
+            nextHtml: '',
+     
+            rtl:false,
+            adaptiveHeight:false,
+     
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
