@@ -34,6 +34,24 @@ h2 {
   margin-bottom: 10%;
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.port-image :hover .overlay {
+  opacity: 1;
+}
+
+
 .screenshot {
   width: 500px;
 }
@@ -50,17 +68,6 @@ h2 {
 
 #media-links {
   border-top: 3px solid rgb(22, 22, 22); ;
-}
-
-
-#travel {
-  width: 350px;
-  height: 350px;
-}
-
-#travel:hover {
-  background-image: url('02-CSS-Bootstrap/Assets/Images2/traveltoday.png');
-  width: 300px; 
 }
 
 @media screen and (max-width:992px) {
