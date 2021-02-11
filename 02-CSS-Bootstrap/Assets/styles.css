@@ -49,3 +49,13 @@ h2 {
     margin-bottom:25px
   }
 }
+
+.hoverimg img:last-child {
+  display: none;  
+}
+.hoverimg:hover img:last-child {
+  display: block;  
+}
+.hoverimg:hover img:first-child {
+  display: none;  
+}
