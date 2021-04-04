@@ -10,6 +10,16 @@ h2 {
   text-align: center;
 }
 
+.contact-info {
+  background-color: #96abc0;
+  /* opacity: .8; */
+  width: 50%;
+  /* float:right; */
+  margin: auto;
+  padding: 20px;
+  border-radius: 10%;
+}
+
 .headshot {
   margin-top: 5%;
   border-radius: 50%;
@@ -19,6 +29,10 @@ h2 {
   height: 40px;
   margin-bottom: 5px;
   border-radius: 20%;
+}
+
+.navbar {
+  background-color:  #96abc0;
 }
 
 .port-image {
@@ -32,8 +46,9 @@ h2 {
 
 .text{
   margin-top: 5%;
-  background-color: #343a40;
-  opacity: .8;
+  background-color: #96abc0;
+  /* background-color: #343a40; */
+  /* opacity: .8; */
 }
 
 #aboutMe{
