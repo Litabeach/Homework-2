@@ -12,9 +12,7 @@ h2 {
 
 .contact-info {
   background-color: #96abc0;
-  /* opacity: .8; */
   width: 50%;
-  /* float:right; */
   margin: auto;
   padding: 20px;
   border-radius: 10%;
@@ -31,6 +29,10 @@ h2 {
   border-radius: 20%;
 }
 
+.links {
+  color:white;
+}
+
 .navbar {
   background-color:  #96abc0;
 }
@@ -38,6 +40,14 @@ h2 {
 .port-image {
   border-radius: 10%;
   margin-bottom: 10%;
+}
+
+.portfolio{
+  background-color: #96abc0;
+  width: 50%;
+  margin: auto;
+  padding: 40px;
+  border-radius: 10%;
 }
 
 .screenshot {
