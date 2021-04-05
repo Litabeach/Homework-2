@@ -11,7 +11,7 @@ h2 {
 }
 
 .contact-info {
-  background-color: #96abc0;
+  background-color:rgb(116, 133, 145);
   width: 50%;
   margin: auto;
   padding: 20px;
@@ -33,7 +33,7 @@ h2 {
   color:white;
 }
 
-.navbar {
+.navbar-dark {
   background-color:  #96abc0;
 }
 
@@ -43,11 +43,12 @@ h2 {
 }
 
 .portfolio{
-  background-color: #96abc0;
+  background-color:rgb(116, 133, 145);;
   width: 50%;
   margin: auto;
   padding: 40px;
   border-radius: 10%;
+  text-align: center;
 }
 
 .screenshot {
@@ -56,7 +57,7 @@ h2 {
 
 .text{
   margin-top: 5%;
-  background-color: #96abc0;
+  background-color: rgb(116, 133, 145);
   /* background-color: #343a40; */
   /* opacity: .8; */
 }
