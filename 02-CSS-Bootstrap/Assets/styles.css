@@ -1,7 +1,7 @@
 body, .card {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: whitesmoke;
-  background-image: url('Images2/portfolio-background.jpg');
+  background-image: url('Images2/watercolor3.jpg');
 }
 
 h2 {
@@ -11,7 +11,7 @@ h2 {
 }
 
 .contact-info {
-  background-color:rgb(116, 133, 145);
+  background-color:rgb(121, 139, 108);
   width: 50%;
   margin: auto;
   padding: 20px;
@@ -34,7 +34,7 @@ h2 {
 }
 
 .navbar-dark {
-  background-color:  #96abc0;
+  background-color: rgb(121, 139, 108);
 }
 
 .port-image {
@@ -43,7 +43,7 @@ h2 {
 }
 
 .portfolio{
-  background-color:rgb(116, 133, 145);;
+  background-color:rgb(121, 139, 108);
   width: 50%;
   margin: auto;
   padding: 40px;
@@ -57,7 +57,7 @@ h2 {
 
 .text{
   margin-top: 5%;
-  background-color: rgb(116, 133, 145);
+  background-color: rgb(121, 139, 108);
 }
 
 #aboutMe{

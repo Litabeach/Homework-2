@@ -24,9 +24,11 @@ Scroll and click links to navigate the pages.
 
 ## Credits
 
-https://getbootstrap.com/
-https://www.w3schools.com/howto/howto_css_fixed_footer.asp
-https://validator.w3.org/
+https://getbootstrap.com/ <br>
+https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br>
+https://validator.w3.org/ <br>
+<a href="https://www.vecteezy.com/free-vector/blue-border">Blue Border Vectors by Vecteezy</a> <br>
+<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
 
 Copyright 2020 Lita Beach
 
