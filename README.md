@@ -17,9 +17,9 @@ Published at: https://litabeach.github.io/Portfolio/
 
 Scroll and click links to navigate the pages. 
 
-![Home page](02-CSS-Bootstrap/Assets/Images2/screencapture1.png)
-![Contact Form](02-CSS-Bootstrap/Assets/Images2/screencapture2.png)
-![Portfolio](02-CSS-Bootstrap/Assets/Images2/screencapture3.png)
+![Home page](02-CSS-Bootstrap/Assets/Images2/screenshot1.png)
+![Contact Form](02-CSS-Bootstrap/Assets/Images2/screenshot2.png)
+![Portfolio](02-CSS-Bootstrap/Assets/Images2/screenshot3.png)
 
 
 ## Credits
@@ -27,7 +27,6 @@ Scroll and click links to navigate the pages.
 https://getbootstrap.com/ <br>
 https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br>
 https://validator.w3.org/ <br>
-<a href="https://www.vecteezy.com/free-vector/blue-border">Blue Border Vectors by Vecteezy</a> <br>
 <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
 
 Copyright 2020 Lita Beach
