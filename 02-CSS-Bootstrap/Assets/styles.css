@@ -58,8 +58,6 @@ h2 {
 .text{
   margin-top: 5%;
   background-color: rgb(116, 133, 145);
-  /* background-color: #343a40; */
-  /* opacity: .8; */
 }
 
 #aboutMe{
@@ -72,8 +70,15 @@ h2 {
 
 @media screen and (max-width:992px) {
   .headshot { 
-    margin-bottom:25px
+    margin-left:10%;
   }
+ .text {
+    width:80%;
+  }
+}
+
+@media only screen and (max-width: 667px) {
+
 }
 
 /* on hover show screenshot for portfolio */
