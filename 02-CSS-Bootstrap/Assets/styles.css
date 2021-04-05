@@ -85,7 +85,19 @@ h2 {
 }
 
 @media only screen and (max-width: 667px) {
-
+  .headshot { 
+    margin-left:10%;
+  }
+ .text {
+    width:80%;
+  }
+  .contact-info {
+    width:90%;
+    margin-bottom: 20px;
+  }
+  .portfolio {
+    width:90%;
+  }
 }
 
 /* on hover show screenshot for portfolio */
